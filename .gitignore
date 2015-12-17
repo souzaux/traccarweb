@@ -55,3 +55,9 @@ docs/_build/
 
 # PyBuilder
 target/
+.gitignore
+.idea/consumeapi.iml
+.idea/encodings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/workspace.xml
